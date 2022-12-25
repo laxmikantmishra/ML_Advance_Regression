@@ -11,18 +11,38 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+# Machine learning advance regression
+## Surprise Housing (Australia Business Expansion) Case Study
+
+#### Problem Statement:
+
+A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price.
+
+Essentially, What company wants —
+
+The company is looking at prospective properties to buy to enter the market. You are required to build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not
+
+#### Approach:
+
+- Build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not..
+
+- To know the accuracy of the model, i.e. To predict to decide whether to invest in them or not.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+### Observed below score for Ridge and Lasso Regression
+
+
+#### Ridge Regression Score:
+    - Train Score : 0.897965123607899
+    - Test Score : 0.8738708902765001
+
+#### Lasso Regression Score:
+    - Train Score : 0.9444867153088153
+    - Test Score : 0.879317310572314
+
+    ***** Lasso has done better with this dataset
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
