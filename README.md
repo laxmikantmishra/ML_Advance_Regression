@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> Machine learning advance regression
 
 
 ## Table of Contents
@@ -11,7 +11,6 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-# Machine learning advance regression
 ## Surprise Housing (Australia Business Expansion) Case Study
 
 #### Problem Statement:
