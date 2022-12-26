@@ -1,17 +1,15 @@
 # Project Name
-> Outline a brief description of your project.
+> Machine learning advance regression
 
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-# Machine learning advance regression
 ## Surprise Housing (Australia Business Expansion) Case Study
 
 #### Problem Statement:
@@ -42,7 +40,7 @@ The company is looking at prospective properties to buy to enter the market. You
     - Train Score : 0.9444867153088153
     - Test Score : 0.879317310572314
 
-    ***** Lasso has done better with this dataset
+    ***** Lasso has done little better with this dataset
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
